@@ -1,0 +1,1 @@
+java -jar botcipher.jar IP PORT 2500 60

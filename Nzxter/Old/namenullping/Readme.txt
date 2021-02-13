@@ -1,0 +1,1 @@
+java -jar namenullping.jar IP PORT 2500 3 true

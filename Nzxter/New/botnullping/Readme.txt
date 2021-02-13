@@ -1,0 +1,1 @@
+java -jar botnullping.jar IP PORT 2500 60
